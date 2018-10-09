@@ -1,0 +1,23 @@
+		/*Gestaltung Userpage*/	
+		
+		@import 
+		url('https://fonts.googleapis.com/css?family=Poiret+One');
+		@import
+		url('https://fonts.googleapis.com/css?family=Julius+Sans+One|Poiret+One');
+		
+
+#EIA2 {
+	font-family: 'Poiret One', cursive;
+	text-align: center; 
+}
+		
+#myname {
+	font-family: 'Poiret One', cursive;
+	text-align: center;
+}
+
+.aufgaben {
+	font-family: 'Julius Sans One', sans-serif;
+	text-align: center;
+}
+
